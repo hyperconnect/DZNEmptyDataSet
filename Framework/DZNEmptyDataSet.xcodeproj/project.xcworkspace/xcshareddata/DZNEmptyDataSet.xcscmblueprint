@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "497FFDFDB4AEB909526F7F78BF8A443B04B42706" : 9223372036854775807,
+    "DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8F1FD1FA-D8A3-425C-8077-0CE8844BEF42",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "497FFDFDB4AEB909526F7F78BF8A443B04B42706" : "..",
+    "DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6" : "DZNEmptyDataSet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DZNEmptyDataSet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Framework\/DZNEmptyDataSet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hyperconnect\/azar-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "497FFDFDB4AEB909526F7F78BF8A443B04B42706"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hyperconnect\/DZNEmptyDataSet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD091C5D03D23C2F1EC054BC9C018DF9A9125FD6"
+    }
+  ]
+}
